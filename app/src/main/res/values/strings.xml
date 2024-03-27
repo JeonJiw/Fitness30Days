@@ -1,3 +1,68 @@
 <resources>
     <string name="app_name">Fitness30Days</string>
+
+    //body
+    <string name="exercise1">Squat: 15 reps * 3 sets. Targets quads, hamstrings, and glutes. Stand with feet apart, lower into a sitting position, then stand back up.</string>
+    <string name="exercise2">Push-up: 10 reps * 3 sets. Works the chest, shoulders, and triceps. Keep your body straight and lower it to the ground using your arms.</string>
+    <string name="exercise3">Lunges: 12 reps * 3 sets. Strengthens legs and glutes. Take a step forward, lower your hips until both knees are bent, then push back up.</string>
+    <string name="exercise4">Plank: Hold for 30 seconds * 3 sets. Strengthens the core. With forearms on the ground, form a straight line from head to heels.</string>
+    <string name="exercise5">Burpees: 8 reps * 3 sets. A full-body exercise. From standing, squat down, jump back into a plank, then jump back to squat and leap up.</string>
+    <string name="exercise6">Jumping Jacks: 20 reps * 3 sets. A cardio exercise. Jump with legs and arms going outward and then return to the starting position.</string>
+    <string name="exercise7">Mountain Climbers: 15 reps * 3 sets. Works the whole body. Start in a plank and alternate driving your knees towards your chest rapidly.</string>
+    <string name="exercise8">High Knees: 20 reps * 3 sets. A cardio move. Run in place lifting your knees high at a comfortable pace.</string>
+    <string name="exercise9">Deadlift: 12 reps * 3 sets. Targets the back, glutes, and legs. Lift a weight off the ground by hinging at the hips and standing up.</string>
+    <string name="exercise10">Leg Raises: 12 reps * 3 sets. Strengthens the lower abdomen. Lie on your back, legs straight, and lift them to a 90-degree angle.</string>
+    <string name="exercise11">Russian Twists: 15 reps * 3 sets. Work the abdomen. Sit with a slight lean back, lift feet if possible, and twist the torso side to side.</string>
+    <string name="exercise12">Bicycle Crunches: 20 reps * 3 sets. Target abs and obliques. Lie on your back, hands behind your head, and alternate elbow to opposite knee.</string>
+    <string name="exercise13">Pull-ups: 8 reps * 3 sets. Strengthen the upper body. Hang from a bar and pull yourself up until your chin is over the bar, then lower back down.</string>
+    <string name="exercise14">Dumbbell Rows: 10 reps * 3 sets. Work the back and biceps. Bend over, one hand on a bench, and pull a weight up to your side.</string>
+    <string name="exercise15">Bench Press: 12 reps * 3 sets. Works the chest, shoulders, and triceps. Lie on a bench and push a weight up from your chest until arms are straight.</string>
+    <string name="exercise16">Shoulder Press: 10 reps * 3 sets. Strengthens shoulders and arms. Press weights overhead from shoulder height until arms are extended.</string>
+    <string name="exercise17">Bicep Curls: 12 reps * 3 sets. Target the biceps. Curl weights from a hanging position up to your shoulders.</string>
+    <string name="exercise18">Tricep Dips: 15 reps * 3 sets. Strengthen the triceps. Lower and raise your body with your arms on a bench or chair.</string>
+    <string name="exercise19">Box Jumps: 10 reps * 3 sets. Improve leg power. Jump onto and off a sturdy box or platform with both feet.</string>
+    <string name="exercise20">Wall Sit: Hold for 1 minute * 3 sets. Strengthens the legs and glutes. Sit against a wall in a squat position with legs at a 90-degree angle.</string>
+    <string name="exercise21">Calf Raises: 15 reps * 3 sets. Strengthen the calves. Lift your heels off the ground and lower them back down.</string>
+    <string name="exercise22">Hamstring Curls : 12 reps * 3 sets. Hamstring Curls target the back of your legs, improving flexibility and strength.</string>
+    <string name="exercise23">Romanian Deadlift: 10 reps * 3 sets. Romanian Deadlift strengthens the lower back and hamstrings, focusing on the hinge movement.</string>
+    <string name="exercise24">Side Plank: Hold for 30 seconds (each side) * 3 sets. Side Plank emphasizes core stability and strength, particularly along the sides of your abdomen.</string>
+    <string name="exercise25">Flutter Kicks: 20 reps * 3 sets. Flutter Kicks are a core exercise focusing on the lower abdominals and hip flexors.</string>
+    <string name="exercise26">Superman: Hold for 20 seconds * 3 sets. Superman exercise strengthens the back muscles and improves posture.</string>
+    <string name="exercise27">Kettlebell Swings: 15 reps * 3 sets. Kettlebell Swings work the entire body, especially the posterior chain, for power and endurance.</string>
+    <string name="exercise28">Russian Kettlebell Twist: 15 reps * 3 sets. Russian Kettlebell Twist targets obliques and abs for core rotation and strength.</string>
+    <string name="exercise29">Skater Lunges: 12 reps (each side) * 3 sets. Skater Lunges increase lateral movement agility, leg strength, and balance.</string>
+    <string name="exercise30">Burpee Box Jumps: 8 reps * 3 sets.Burpee Box Jumps combine explosive leg power and endurance, using a box to jump on and off.</string>
+
+//title
+    <string name="exercise_title1">Squat</string>
+    <string name="exercise_title2">Push-up</string>
+    <string name="exercise_title3">Lunges</string>
+    <string name="exercise_title4">Plank</string>
+    <string name="exercise_title5">Burpees</string>
+    <string name="exercise_title6">Jumping Jacks</string>
+    <string name="exercise_title7">Mountain Climbers</string>
+    <string name="exercise_title8">High Knees</string>
+    <string name="exercise_title9">Deadlift</string>
+    <string name="exercise_title10">Leg Raises</string>
+    <string name="exercise_title11">Russian Twists</string>
+    <string name="exercise_title12">Bicycle Crunches</string>
+    <string name="exercise_title13">Pull-ups</string>
+    <string name="exercise_title14">Dumbbell Rows</string>
+    <string name="exercise_title15">Bench Press</string>
+    <string name="exercise_title16">Shoulder Press</string>
+    <string name="exercise_title17">Bicep Curls</string>
+    <string name="exercise_title18">Tricep Dips</string>
+    <string name="exercise_title19">Box Jumps</string>
+    <string name="exercise_title20">Wall Sit</string>
+    <string name="exercise_title21">Calf Raises</string>
+    <string name="exercise_title22">Hamstring Curls</string>
+    <string name="exercise_title23">Romanian Deadlift</string>
+    <string name="exercise_title24">Side Plank</string>
+    <string name="exercise_title25">Flutter Kicks</string>
+    <string name="exercise_title26">Superman</string>
+    <string name="exercise_title27">Kettlebell Swings</string>
+    <string name="exercise_title28">Russian Kettlebell Twist</string>
+    <string name="exercise_title29">Skater Lunges</string>
+    <string name="exercise_title30">Burpee Box Jumps</string>
+
 </resources>
