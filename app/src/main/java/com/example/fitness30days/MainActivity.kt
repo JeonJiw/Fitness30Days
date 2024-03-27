@@ -109,7 +109,9 @@ fun ExerciseCard(dayNumber: Int, exercise: Exercise, modifier: Modifier = Modifi
                 contentDescription = stringResource(exercise.stringResourceId),
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(194.dp).clip(MaterialTheme.shapes.small),
+                    .height(194.dp)
+                    .clip(MaterialTheme.shapes.medium)
+                    .padding(dimensionResource(id = R.dimen.padding_small)),
                 contentScale = ContentScale.Crop,
 
             )
